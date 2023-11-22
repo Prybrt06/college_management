@@ -144,7 +144,7 @@ function SingleDepartment() {
           {/* FACULTY */}
 
           {action ? (
-            <div id="faculty">
+            <div id="faculty" style={{marginBottom: "2rem"}}>
               {/* MAIN */}
               <Row className="homerow justify-content-md-center" >                
                 <Col md={5} className="pagegrid">
